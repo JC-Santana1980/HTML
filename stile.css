@@ -1,0 +1,13 @@
+button {
+    font-size: 20px;         /* Letra maior */
+    padding: 16px 40px;      /* Botão encorpado */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;      /* Cantos suavemente arredondados */
+    cursor: pointer;         /* Transforma a seta em mãozinha ao passar o mouse */
+}
+
+button:hover {
+    background-color: #0056b3; /* Efeito visual ao passar o mouse */
+}
